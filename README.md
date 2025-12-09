@@ -1,4 +1,4 @@
 ## About me
 
-Locked in building [Asymptote]([https://www.doppel.com/](https://github.com/Asymptote-Labs/)), the trust & security layer for agentic coding
+- Locked in building [Asymptote](https://asymptotelabs.ai/), the trust & security layer for agentic coding. Reach out if you want build together!
 
