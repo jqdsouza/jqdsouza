@@ -1,4 +1,4 @@
 ## About me
 
-- Locked in building [Asymptote](https://asymptotelabs.ai/), the trust & security layer for agentic coding. Reach out if you want build together!
+- Locked in building in stealth! Check out my writing here: https://justindsouza.substack.com/
 
